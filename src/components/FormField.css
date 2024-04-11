@@ -1,0 +1,22 @@
+.field {
+    margin:0;
+    text-align: left;
+    padding: 10px;
+    background-color: white;
+   
+}
+.label {
+    padding: 15px 0 0 5px;
+    font-size: 24px;
+    font-weight: bolder;
+    color: rgb(8, 1, 1);
+}
+.input {
+    background-color: rgba(242, 241, 244, 0.205);
+    width:100%;
+    color: var(--bulma-input-placeholder-color)
+}
+:root{
+  --bulma-input-placeholder-color: #000;
+}
+    
